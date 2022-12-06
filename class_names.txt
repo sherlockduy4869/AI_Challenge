@@ -1,0 +1,10 @@
+tooth
+key
+square
+line
+circle
+triangle
+hat
+book
+star
+pencil
